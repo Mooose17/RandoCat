@@ -19,12 +19,6 @@ const GetCat = () => {
     });
   }, [id]);
 
-  const checkForm = () => {
-    if ((id1, id2, id3 === null)) {
-      alert("Meow, meow... MEOW! (Please input a valid character!)");
-    }
-  };
-
   return (
     <div>
       <div className="container">
