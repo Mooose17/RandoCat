@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-image: url(https://static.vecteezy.com/system/resources/previews/005/298/806/non_2x/seamless-pattern-of-cute-cartoon-cat-illustration-design-on-purple-background-free-vector.jpg);
+}
+
+form {
+  margin-bottom: 2rem;
+}
+
+.container {
+  margin-top: 1rem;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.error-404 {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.cat-image-container {
+  max-width: 100%;
+}
+
+.cat-image {
+  max-width: fit-content;
+  max-height: 60vh;
+}
+
+.footer-container {
+  background-color: rgba(255, 255, 255, 0.7);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.footer-children {
+  margin-bottom: 1rem;
+}
