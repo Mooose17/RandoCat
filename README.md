@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This app was created in a day and is by no means a finished project.
+Currently the app was built and designed for browser first, meaning the next updates to this app will be looking at viewing this app and making it moblie responsive.
+
 ## What is this?
 
 Hello! This is a web-app that queries the [CatAPI](https://thecatapi.com/).
