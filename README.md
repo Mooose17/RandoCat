@@ -21,7 +21,7 @@ If you were to input characters that do not provide a valid response from the 'T
 - Letter 2: S
 - Letter 3: S
 
-You will recieve a message stating `'Oh No... This cat doesn't exist yet!'.`
+You will receive a message stating `'Oh No... This cat doesn't exist yet!'.`
 
 ## What is this?
 
