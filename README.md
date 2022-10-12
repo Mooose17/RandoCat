@@ -1,15 +1,25 @@
 # Randocat!
 
+This app was created in a 24 hour challenge in which I attempted to create a simple react app.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-This app was created in a day and is by no means a finished project.
-Currently the app was built and designed for browser first, meaning the next updates to this app will be looking at viewing this app and making it moblie responsive.
 
 ## What is this?
 
 Hello! This is a web-app that queries the [CatAPI](https://thecatapi.com/).
 
 This app is hosted on netlify here: [RandoCat!](https://randocat.moose17.dev/)
+
+## Requirements
+This React app runs version:
+
+Node -v18.6.0
+
+If you would like to run this repo locally:
+
+Fork and Clone -git clone <insert-forked-url>
+Run - Create-react-app in the root file
+Install dependancies - npm install
+Have fun!
 
 # Socials
 
