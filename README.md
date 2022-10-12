@@ -7,9 +7,9 @@ To use this app, you need to provide the three input boxes three characters. Thi
 
 ### Example:
 
--Letter 1:A
--Letter 2:A
--Letter 3:A
+- Letter 1: A
+- Letter 2: A
+- Letter 3: A
 
 If this is queried you should see a picture of a ginger cat wearing a scarf.
 
