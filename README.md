@@ -17,9 +17,9 @@ If you were to input characters that do not provide a valid response from the 'T
 
 ### Example:
 
--Letter 1:A
--Letter 2:S
--Letter 3:S
+- Letter 1: A
+- Letter 2: S
+- Letter 3: S
 
 You will recieve a message stating `'Oh No... This cat doesn't exist yet!'.`
 
@@ -45,6 +45,6 @@ Have fun!
 
 If you like what you see, here is my:
 
-[LinkedIn](https://www.linkedin.com/in/tommybowden/)
-[Twitter](https://twitter.com/Moooose17)
-[Carrd](https://tom-moose.carrd.co/)
+- [LinkedIn](https://www.linkedin.com/in/tommybowden/)
+- [Twitter](https://twitter.com/Moooose17)
+- [Carrd](https://tom-moose.carrd.co/)
